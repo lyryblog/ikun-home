@@ -1,0 +1,137 @@
+audio::-webkit-media-controls {
+    overflow: hidden !important
+}
+
+audio::-webkit-media-controls-enclosure {
+    width: calc(100% + 32px);
+    margin-left: auto
+}
+
+#main {
+        width: 390px;
+    margin: 0 auto
+}
+
+#main .top {
+    position: relative
+}
+
+#main .top .name {
+    color: #fff;
+    font-size: 22px;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    padding-top: 22px;
+    font-family: 微软雅黑
+}
+
+#main .top .bg1 {
+    height: 70px;
+    background-image: url(../img/bjm11.png);
+    background-repeat: no-repeat, repeat;
+    background-size: 100% 100%
+}
+
+#main .top .bg2 {
+    height: 80px;
+    background-image: url(../img/bjm22.png);
+    background-repeat: no-repeat, repeat;
+    background-size: 100% 100%
+}
+
+#main .top .ji {
+    width: 90%;
+    height: 90%;
+    box-sizing: border-box;
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    right: 10px;
+    margin: auto;
+    background-image: url(../img/ji.png);
+    background-repeat: no-repeat, repeat;
+    background-clip: border-box;
+    background-size: 100% 100%;
+    border-radius: 15px
+}
+
+#main .ctrl {
+    border-radius: 15px;
+    background-color: #fff;
+    margin: 80px 20px;
+    margin-bottom: 0;
+    padding: 20px
+}
+
+#main .ctrl .gongneng {
+    font-family: 微软雅黑;
+    width: 100%;
+    margin-bottom: 15px
+}
+
+#main .ctrl .gongneng span {
+    font-weight: bold
+}
+
+#main .ctrl .gongneng .s {
+    float: right;
+    width: 110px;
+    display: flex;
+    justify-content: space-between
+}
+
+#main .ctrl .gongneng .s .s1,
+#main .ctrl .gongneng .s .s2 {
+    width: 50px;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 10px;
+    background-color: rgb(33, 235, 110);
+    text-align: center;
+    font-size: 13px
+}
+
+#main .ctrl ul.jj {
+    list-style: none;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap
+}
+
+#main .ctrl ul.jj li {
+    width: 70px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 13px;
+    background-color: rgb(30, 190, 142);
+    text-align: center;
+    margin: 3px;
+    padding: 0;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#main .ctrl ul.jj li.sange {
+    width: 90px
+}
+
+#main .ctrl .help {
+    border-radius: 15px;
+    background-color: #eee;
+    margin-top: 20px;
+    padding: 10px 20px
+}
+
+#main .ctrl .help .title {
+    font-weight: bold
+}
+
+#main .ctrl .help ul {
+    list-style-type: none
+}
+
+#main .ctrl .help ul li {
+    margin: 15px 0
+}
