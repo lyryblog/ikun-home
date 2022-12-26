@@ -3,7 +3,7 @@ audio.play();
 var lis = document.querySelectorAll('ul.jj li');
 lis.forEach(li => {
     li.onclick = function() {
-        audio.src = 'http://jilehe.125ks.cn/Voice/jlh/res/' + this.getAttribute('m') + '.mp3';
+        audio.src = './res/' + this.getAttribute('m') + '.mp3';
         audio.play();
         console.log(this.innerHTML)
     }
