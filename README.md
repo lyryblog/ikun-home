@@ -1,6 +1,6 @@
 ### ikun Home 爱坤之家
 
-<a href="https://ikun.ee" target="blank"><strong>🌎 访问DEMO</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://ikun.ee" target="blank"><strong>🌎 访问DEMO</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
 
 主要收集坤坤的一些在线游戏，ikun必玩！
 
