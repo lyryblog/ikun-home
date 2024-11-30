@@ -1,6 +1,6 @@
 ### Jilehe 鸡乐盒
 
-&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://ikun.ee" target="blank"><strong>🌎 访问DEMO</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://jilehe.netlify.app/" target="blank"><strong>🌎 访问DEMO</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;
 
 原ikun.ee域名到期后未续费，已停止使用，将来此域名关联网站任何内容均与作者无关。
 
